@@ -2,7 +2,7 @@ cv:
   name: Dixith Manchaiah
   label: Experimental Physicist
   email: dixithmanchaiah@gmail.com
-  location: Teddington, United Kingdom
+  location: Boulder, Colorado
   image: ""
 
   summary: Experimental physicist specializing in Rydberg atom-based quantum sensing, nonlinear dynamics, quantum optics, and precision measurements. Research interests include RF electric-field sensing, dissipative time crystals, quantum metrology, structured light, and atomic spectroscopy.
@@ -40,7 +40,7 @@ cv:
         position: Postdoctoral Research Associate
         location: Boulder, Colorado, USA
         start_date: 2024
-        end_date: 2026
+        end_date: 
         highlights:
           - Rydberg atom-based electric-field sensing
           - Sensitivity and bandwidth optimization
