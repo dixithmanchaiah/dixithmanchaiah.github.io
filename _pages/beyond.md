@@ -31,11 +31,24 @@ Exploring new places is one of my favorite ways to disconnect, recharge, and exp
 ## Recent travel to Badlands National Park
 
 One of the most striking landscapes I have visited, with layered rock formations and vast open scenery.
+{% for image in site.static_files %}
+  {% if image.path contains 'assets/img/recent/' %}
+    <img src="{{ image.path }}" class="img-fluid rounded z-depth-1" style="margin-bottom:20px;">
+  {% endif %}
+{% endfor %}
 
 ---
 
-# Photography
+# Gallery
 
 A small collection of moments and places that I found worth capturing.
+<div class="row">
+{% for image in site.static_files %}
+{% if image.path contains 'assets/img/photography/' %}
+<div class="col-sm-4">
+<img src="{{ image.path }}" class="img-fluid rounded z-depth-1">
+</div>
+{% endif %}
+{% endfor %}
+</div>
 
-*Coming soon.*
