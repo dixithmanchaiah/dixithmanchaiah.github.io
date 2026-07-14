@@ -26,6 +26,19 @@ nav_order: 4
 - **The Secret of the Nagas** — Revisited Amish Tripathi's *Shiva Trilogy*. I appreciate the way Shiva is portrayed as a deeply human character rather than an infallible deity. The narrative, combined with its vivid journey across the landscapes, history, and mythology of India, makes it an engaging and memorable read.
 
 ---
+## Gaming
+
+Games have been a way to relax, explore stories, and appreciate creative world-building.
+
+### Favorites
+
+- **Assassin's Creed** — I enjoy the historical settings, exploration, and the blend of real-world events with fictional storytelling.
+
+- **Super Smash Bros. Melee (SSBM)** — A game that stands out for its depth, mechanics, and enduring competitive community.
+
+- **Tomb Raider** — Appreciated for its exploration, puzzles, and adventure-driven storytelling.
+
+---
 
 ## Travel
 
@@ -71,14 +84,4 @@ A collection of moments and places worth capturing.
 
 ---
 
-## Gaming
 
-Games have been a way to relax, explore stories, and appreciate creative world-building.
-
-### Favorites
-
-- **Assassin's Creed** — I enjoy the historical settings, exploration, and the blend of real-world events with fictional storytelling.
-
-- **Super Smash Bros. Melee (SSBM)** — A game that stands out for its depth, mechanics, and enduring competitive community.
-
-- **Tomb Raider** — Appreciated for its exploration, puzzles, and adventure-driven storytelling.
