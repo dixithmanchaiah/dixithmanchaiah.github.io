@@ -9,6 +9,15 @@ nav_order: 4
 
 <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const lightbox = GLightbox({
+        selector: ".glightbox",
+        loop: true
+    });
+});
+</script>
+
 *Research is an important part of my life, but not the whole of it. This page is a collection of books, places, and experiences that have shaped my perspective beyond the laboratory.*
 
 ---
