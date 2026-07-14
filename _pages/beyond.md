@@ -34,9 +34,15 @@ One of the most striking landscapes I have visited, with layered rock formations
 <div class="row">
 {% for image in site.static_files %}
   {% if image.path contains '/assets/img/recent/' %}
-    <div class="col-sm-4">
-      <img src="{{ image.path | relative_url }}" class="img-fluid rounded z-depth-1">
-    </div>
+    {% unless image.path contains '-400' or image.path contains '-800' or image.path contains '-1200' or image.path contains '.webp' %}
+      <div class="col-sm-4">
+        {% include figure.liquid 
+            path=image.path
+            class="img-fluid rounded z-depth-1"
+            zoomable=true
+        %}
+      </div>
+    {% endunless %}
   {% endif %}
 {% endfor %}
 </div>
@@ -49,9 +55,15 @@ A small collection of moments and places that I found worth capturing.
 <div class="row">
 {% for image in site.static_files %}
   {% if image.path contains '/assets/img/gallery/' %}
-    <div class="col-sm-4">
-      <img src="{{ image.path | relative_url }}" class="img-fluid rounded z-depth-1">
-    </div>
+    {% unless image.path contains '-400' or image.path contains '-800' or image.path contains '-1200' or image.path contains '.webp' %}
+      <div class="col-sm-4">
+        {% include figure.liquid 
+            path=image.path
+            class="img-fluid rounded z-depth-1"
+            zoomable=true
+        %}
+      </div>
+    {% endunless %}
   {% endif %}
 {% endfor %}
 </div>
