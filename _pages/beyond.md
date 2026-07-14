@@ -41,11 +41,11 @@ Games have been a way to relax, explore stories, and appreciate creative world-b
 
 ### Favorites
 
-- **Assassin's Creed** — I enjoy the historical settings, exploration, and the blend of real-world events with fictional storytelling.
+- **Assassin's Creed** 
 
-- **Super Smash Bros. Melee (SSBM)** — A game that stands out for its depth, mechanics, and enduring competitive community.
+- **Super Smash Bros. Melee (SSBM)** 
 
-- **Tomb Raider** — Appreciated for its exploration, puzzles, and adventure-driven storytelling.
+- **Tomb Raider**
 
 ---
 
