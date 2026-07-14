@@ -6,15 +6,26 @@ nav: true
 nav_order: 4
 ---
 
-## Books
+## 📚 Reading
 
-Currently reading:
-- *Book name* — Author
+### Currently reading
+- *The Information* — James Gleick
 
-## Travel
+### Finished
+- *Book title* — Short note
 
-Some photos and notes from places I have visited.
+---
 
-## Photography
+## ✈️ Travel
 
-Add your pictures here.
+### Germany, 2026
+
+A few pictures from the trip.
+
+![Germany](/assets/img/travel/germany.jpg)
+
+---
+
+## 📷 Photography
+
+Random moments.
