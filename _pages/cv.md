@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 3
 cv_format: rendercv # options: rendercv, jsonresume
-description: Here is my brief CV
+description: Here is my brief CV.
 toc:
   sidebar: left
 ---
