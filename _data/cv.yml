@@ -24,8 +24,8 @@ cv:
         start_date: 2018
         end_date: 2024
         highlights:
-          - Thesis: "Investigation of the Effects of Structured Light and Polarization on Electromagnetically Induced Transparency Resonances for Quantum Memory Applications"
-          - Advisor: "Prof. Raghavan K. Easwaran"
+          - "Thesis: Investigation of the Effects of Structured Light and Polarization on Electromagnetically Induced Transparency Resonances for Quantum Memory Applications"
+          - "Advisor: Prof. Raghavan K. Easwaran"
 
       - institution: University of Mysore
         location: Mysuru, India
@@ -34,18 +34,19 @@ cv:
         start_date: 2015
         end_date: 2017
 
+
     Experience:
-      
+
       - company: National Institute of Standards and Technology (NIST) / University of Colorado Boulder
         position: Postdoctoral Research Associate — Holloway Group
         location: Boulder, Colorado, USA
         start_date: 2024
         end_date: Present
         highlights:
-          - Rydberg atom-based electric-field sensing
-          - Sensitivity and bandwidth optimization of quantum RF sensors
-          - Nonlinear dynamics and dissipative time crystals
-          - Quantum metrology and SI-traceable measurements
+          - "Rydberg atom-based electric-field sensing"
+          - "Sensitivity and bandwidth optimization of quantum RF sensors"
+          - "Nonlinear dynamics and dissipative time crystals"
+          - "Quantum metrology and SI-traceable measurements"
 
       - company: Raman Research Institute
         position: Visiting Project Student
@@ -53,68 +54,71 @@ cv:
         start_date: 2017
         end_date: 2018
         highlights:
-          - Developed microsecond-scale IGBT switching system for cold-atom experiments
+          - "Developed microsecond-scale IGBT switching system for cold-atom experiments"
+
 
     Presentations and Conferences:
-      - name: "DAMOP 2026"
-        location: "Providence, USA"
+
+      - institution: DAMOP 2026
+        location: Providence, USA
         highlights:
-          - "Talk: Radio Frequency DrivenNonlinear Dynamical Rydberg Dissipative Time Crystal "
+          - "Talk: Radio Frequency Driven Nonlinear Dynamical Rydberg Dissipative Time Crystal"
 
-
-      - name: "DAMOP 2025"
-        location: "Portland, USA"
+      - institution: DAMOP 2025
+        location: Portland, USA
         highlights:
           - "Poster: Improving the Sensitivity and Bandwidth of a Rydberg Receiver using Optical Homodyne Detection"
 
-      - name: "NIST Sigma Xi Early Career Poster Program (ECPP), 2025"
-        location: "Boulder, USA"
+      - institution: NIST Sigma Xi Early Career Poster Program (ECPP), 2025
+        location: Boulder, USA
         highlights:
           - "Poster: Optical Homodyne and RF Superheterodyne-Based Rydberg Sensor for Enhanced Sensitivity and Bandwidth"
 
-      - name: "Gordon Research Conference on Quantum Science, 2022"
-        location: "Boston, USA"
+      - institution: Gordon Research Conference on Quantum Science, 2022
+        location: Boston, USA
         highlights:
           - "Poster: Effect of Higher Order LG Modes on EIT in 87Rb Vapor"
 
-      - name: "JSAP-Optica Joint Symposium, 2022"
-        location: "Japan"
+      - institution: JSAP-Optica Joint Symposium, 2022
+        location: Japan
         highlights:
           - "Talk: EIT in Presence of Ince Gaussian Mode"
 
-      - name: "Research Scholars' Day (RSD), IIT Patna, 2021"
-        location: "Patna, India"
+      - institution: Research Scholars' Day (RSD), IIT Patna, 2021
+        location: Patna, India
         highlights:
           - "Poster: Enhancement of Electromagnetically Induced Transparency and Absorption Signals in 85Rb Vapor using a Small External Magnetic Field"
           - "Best Poster Award"
 
-      - name: "University of Jena"
-        location: "Jena, Germany"
+      - institution: University of Jena
+        location: Jena, Germany
         highlights:
           - "Poster: Interplay of Polarizations and Vortex in a Cascade EIT System of 87Rb Vapor"
 
-      - name: "Student Conference on Photonics and Quantum Technology (SCPQT), 2021"
-        location: "NISER Bhubaneswar, India"
+      - institution: Student Conference on Photonics and Quantum Technology (SCPQT), 2021
+        location: NISER Bhubaneswar, India
         highlights:
           - "Poster Presentation"
 
-      - name: "Student Conference on Optics and Photonics (SCOP), 2020"
-        location: "PRL Ahmedabad, India"
+      - institution: Student Conference on Optics and Photonics (SCOP), 2020
+        location: PRL Ahmedabad, India
         highlights:
           - "Poster Participant"
 
-      - name: "International Conference on Quantum Technologies (ICQT), 2021"
-        location: "Russia"
+      - institution: International Conference on Quantum Technologies (ICQT), 2021
+        location: Russia
         highlights:
           - "Participant"
 
-      - name: "Online School and Discussion Meeting on Trapped Atoms, Molecules and Ions, 2021"
-        location: "ICTS Bangalore, India"
+      - institution: Online School and Discussion Meeting on Trapped Atoms, Molecules and Ions, 2021
+        location: ICTS Bangalore, India
         highlights:
           - "Participant"
-        
+
+
     Professional Service:
-      - name: Peer Reviewer
+
+      - institution: Peer Reviewer
         highlights:
           - "ACS Photonics"
           - "Nature Communications"
@@ -126,9 +130,10 @@ cv:
           - "IEEE Transactions on Antennas and Propagation"
           - "Applied Sciences (MDPI)"
           - "Photonics (MDPI)"
-    
+
+
     Interests:
-    
+
       - name: Research Interests
         keywords:
           - Rydberg Atoms
