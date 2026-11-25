@@ -26,10 +26,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ### Currently Reading
 
-- **The Krishna Key** — *Ashwin Sanghi*
+
 
 ### Recently Finished
-
+- **The Krishna Key** — *Ashwin Sanghi*
 - **Illuminate Your Truth** — A practical guide to personal growth, focusing on techniques such as breathwork, mindfulness, meditation, and journaling to cultivate greater self-awareness and emotional well-being.
 
 - **The Secret of the Nagas** — Revisited Amish Tripathi's *Shiva Trilogy*. I appreciate the way Shiva is portrayed as a deeply human character rather than an infallible deity. The narrative, combined with its vivid journey across the landscapes, history, and mythology of India, makes it an engaging and memorable read.
