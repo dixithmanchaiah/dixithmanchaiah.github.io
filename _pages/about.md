@@ -26,10 +26,6 @@ latest_posts:
   limit: 3
 ---
 
-I am an experimental physicist working on Rydberg atom-based quantum sensing, nonlinear dynamics, and quantum optics.
+I am a Higher Scientist at the National Physical Laboratory (NPL), UK, working in experimental quantum physics at the intersection of quantum sensing, quantum optics, atomic physics, and precision measurement. My research focuses on Rydberg atom-based quantum sensors, RF electric-field metrology, optical and RF heterodyne detection, and the development of deployable quantum technologies for real-world sensing applications.
 
-My research focuses on RF electric-field sensing with Rydberg atoms, quantum metrology, optical and RF heterodyne detection, and driven-dissipative atomic systems.
-
-Recent work includes self-sustained oscillations, synchronization, and frequency-comb behavior in RF-driven dissipative Rydberg systems.
-
-I am broadly interested in using atomic systems as precision sensors and controllable platforms for nonlinear and nonequilibrium dynamics.
+I am also interested in nonlinear and nonequilibrium quantum phenomena in driven-dissipative atomic systems, including synchronization, self-sustained oscillations, frequency-comb generation, and time-crystalline behaviour. More broadly, I explore how atomic systems can serve as both precision sensors and controllable platforms for studying fundamental quantum physics while enabling practical quantum technologies.
